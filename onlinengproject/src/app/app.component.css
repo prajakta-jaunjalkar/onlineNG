@@ -1,0 +1,12 @@
+.mbpartli {
+    list-style-type: none;
+    /* border: 1px solid; */
+    display: inline-block;
+    margin: 5px;
+    box-shadow: 3px 1px 4px palevioletred;
+    background: rgb(239, 205, 205);
+    padding: 10px;
+}
+.mpart{
+    color:#d62121;
+}
